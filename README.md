@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# Interactive Board - Circle Creator
+
+This React application offers a user-friendly interface for creating circles with just a click.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
